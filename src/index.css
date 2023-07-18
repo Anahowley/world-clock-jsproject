@@ -4,3 +4,34 @@ h1 {
 footer {
   text-align: center;
 }
+
+.container-xl {
+  display: block;
+  max-width: 500px;
+  margin: 40px;
+  padding: 10px;
+  margin-bottom: -10px;
+  background: rgb(255, 254, 254);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+}
+.city {
+  color: black;
+  padding: 15px;
+}
+
+.date {
+  opacity: 0.6;
+  margin-bottom: -19px;
+}
+.time {
+  display: inline;
+  margin-left: 80%;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  display: block;
+  font-family: "Times New Roman", Times, serif;
+}
