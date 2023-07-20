@@ -8,7 +8,7 @@ footer {
 .container-xl {
   display: block;
   max-width: 500px;
-  margin: 40px;
+  margin: 40px auto;
   padding: 10px;
   margin-bottom: -10px;
   background: rgb(255, 254, 254);
