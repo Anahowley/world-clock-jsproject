@@ -1,8 +1,12 @@
 h1 {
   text-align: center;
+  padding: 20px;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 footer {
   text-align: center;
+  padding-top: 10px;
 }
 
 .container-xl {
@@ -26,7 +30,8 @@ footer {
   margin-bottom: -19px;
 }
 .time {
-  display: inline;
+  display: block;
+  margin-top: -50px;
   margin-left: 65%;
   font-size: 30px;
   font-family: "Times New Roman", Times, serif;
@@ -36,4 +41,5 @@ h2 {
   display: block;
   font-family: "Times New Roman", Times, serif;
   font-size: 25px;
+  padding-top: 10px;
 }
