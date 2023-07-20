@@ -7,7 +7,7 @@ footer {
 
 .container-xl {
   display: block;
-  max-width: 500px;
+  max-width: 510px;
   margin: 40px auto;
   padding: 10px;
   margin-bottom: -10px;
@@ -17,7 +17,8 @@ footer {
 }
 .city {
   color: black;
-  padding: 15px;
+  padding: 10px;
+  font-size: 15px;
 }
 
 .date {
@@ -26,12 +27,13 @@ footer {
 }
 .time {
   display: inline;
-  margin-left: 80%;
-  font-size: 20px;
+  margin-left: 65%;
+  font-size: 30px;
   font-family: "Times New Roman", Times, serif;
 }
 
 h2 {
   display: block;
   font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
 }
